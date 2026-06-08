@@ -326,7 +326,7 @@ fieldset{
     font-weight: bold;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
     body {
         min-height: 100vh;
         display: flex;
